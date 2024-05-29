@@ -26,8 +26,14 @@ our_values:1,2,3,4,5,16
    In this code, a binary search is used to find the square root of the input value. The algorithm starts with an initial test value of 1 and iteratively increments it by a factor of 4 (shifts 2 bits to the left) until the test value exceeds the input value. At this point, the square root is found and the result is returned in a0. 
    the square root of integers is calculated accurately But about numbers whose their square root is not an integer,for example '10' (which square root is between 3 and 4),it is rounded to the number 4.
 
+
 ## result_2:
 a0=5
 
 - Attach the waveform image to the README.md file
-![Result](Result.jpg)
+
+##Result1
+![Result](Result1.jpg)
+
+##Result2
+![Result](Result2.jpg)
